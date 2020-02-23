@@ -1,0 +1,147 @@
+/****************************Title section************************/
+#title {
+  background-color: pink;
+}
+
+body {
+  font-family: "Montserrat"
+}
+
+h1 {
+  font-family: "Dancing Script";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 1.5;
+  padding-top: 13%;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+h3 {
+  display: flex;
+  font-family: "EB Garamond";
+  font-size: 2rem;
+  font-weight: 1000;
+}
+
+h4 {
+  font-family: "EB Garamond";
+  font-size: 2rem;
+  text-align: center;
+}
+
+#upotitlos {
+  font-family: "EB Garamond";
+  text-align: center;
+  padding-left: 28%;
+  font-size: 1.5rem;
+}
+
+.container-fluid {
+  padding: 5% 5%;
+  text-align: center;
+}
+
+/* Images */
+.lina-img {
+  padding-top: 10%;
+  width: 70%;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  font-family: "Montserrat";
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* Buttons */
+button {
+  font-family: "Montserrat";
+  font-weight: 200;
+  font-size: 1rem;
+}
+
+#button-tsantes {
+  margin-right: 2%;
+  font-size: 1.5rem;
+}
+
+#button-aksesouar {
+  margin-right: 2%;
+  font-size: 1.5rem;
+}
+
+
+.carousel-item{
+  padding: 5% 10%;
+  height: 900px;
+
+}
+/****************************Features section************************/
+#features {
+  background-color: white;
+  padding: 3% 35%;
+  text-align: center;
+}
+
+.icon {
+  color: purple;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #81f5ff;
+}
+
+/****************************Testimonials section************************/
+#testimonials {
+  background-color: #f6e5f5;
+  text-align: center;
+  padding: 2% 5%;
+}
+
+/****************************Pricing section************************/
+#pricing {
+  padding: 1% 5%;
+}
+
+#titlos-tsantes {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: left;
+}
+
+/****************************Footer section************************/
+#footer {
+  background-color: grey;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.footer-link {
+  color: pink;
+}
+
+#footer-Copyright {
+  text-align: center;
+}
